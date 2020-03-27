@@ -1,4 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [README](README.md)
+
+## Tillboard Extension
+
+* [Getting Started](tillboard-extension/getting-started.md)
+
+## Extension Panel
+
+* [Getting Started](extension-panel/getting-started.md)
 
