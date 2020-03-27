@@ -36,7 +36,8 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
       <td style="text-align:left">
         <p>Steuerung Autosquaring, wenn man</p>
         <p>schon das Tillboard hat, kann</p>
-        <p>nat&#xFC;rtlich der vorhandene Arduino Nano genutzt werden</p>
+        <p>nat&#xFC;rtlich der vorhandene Arduino Nano</p>
+        <p>genutzt werden</p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;<a href="https://amzn.to/33UyXgi">Amazon</a>&#x200B;</p>
@@ -55,7 +56,8 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
         <p>Befestigung der Extension &#xFC;ber dem Tillboard.</p>
         <p>Je nachdem wie das Tillboard befestigt ist,</p>
         <p>kann man sich auch andere L&#xF6;sungen einfallen</p>
-        <p>lassen. L&#xE4;nger geht auch(kann man ja sp&#xE4;ter passend eink&#xFC;rzen)</p>
+        <p>lassen. L&#xE4;nger geht auch(kann man ja sp&#xE4;ter</p>
+        <p>passend eink&#xFC;rzen)</p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;<a href="https://amzn.to/39pXScG">Amazon M3</a>&#x200B;</p>
