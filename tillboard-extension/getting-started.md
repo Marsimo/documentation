@@ -14,7 +14,12 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Arduino Mega</td>
+      <td style="text-align:left">
+        <p>Arduino Mega</p>
+        <p>
+          <img src="../.gitbook/assets/arduinomega.jpg" alt/>
+        </p>
+      </td>
       <td style="text-align:left">Steuerung der Fr&#xE4;se</td>
       <td style="text-align:left">
         <p>&#x200B;<a href="https://amzn.to/2UIr4pQ">Amazon</a>&#x200B;</p>
@@ -22,7 +27,12 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Arduino Nano</td>
+      <td style="text-align:left">
+        <p>Arduino Nano</p>
+        <p>
+          <img src="../.gitbook/assets/arduinonano.jpg" alt/>
+        </p>
+      </td>
       <td style="text-align:left">
         <p>Steuerung Autosquaring, wenn man</p>
         <p>schon das Tillboard hat, kann</p>
@@ -35,8 +45,11 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>Schrauben</p>
+        <p>Schrauben (4 St&#xFC;ck)</p>
         <p>M3x60 oder M4x60</p>
+        <p>
+          <img src="../.gitbook/assets/m3x60.jpg" alt/>
+        </p>
       </td>
       <td style="text-align:left">
         <p>Befestigung der Extension &#xFC;ber dem Tillboard.</p>
@@ -52,7 +65,12 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Abstandshalter</td>
+      <td style="text-align:left">
+        <p>Abstandshalter (4 St&#xFC;ck)</p>
+        <p>
+          <img src="../.gitbook/assets/abstandshalter.jpg" alt/>
+        </p>
+      </td>
       <td style="text-align:left">
         <p>Zwischen den Boards. Ich habe mir die einfach</p>
         <p>selbst im 3D Drucker gedruckt. Geht ganz fix.</p>
