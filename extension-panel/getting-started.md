@@ -26,7 +26,7 @@ Hier ist eine Auflistung der Ein-/Ausgänge, welche die Platine im Standard unte
 | Stromlos schalten | Schalter |
 | Display | 4-Zeilen OLED Display |
 
-Neben den Komponenten für die Panel Platine und der Panel Platine selbst kann ich folgende Sachen empfehlen\(Falls Du mich unterstützen willst kannst du die Affiliate Links nutzen, ansonsten kann man die Bauteile natürlich auch selbst über Suchmaschinen finden\):
+Neben den Komponenten für die Panel Platine und der Panel Platine selbst kann ich folgende Sachen empfehlen\(Falls Du mich unterstützen willst, kannst Du die Affiliate Links nutzen, ansonsten kann man die Bauteile natürlich auch selbst über Suchmaschinen finden\):
 
 <table>
   <thead>
@@ -44,8 +44,8 @@ Neben den Komponenten für die Panel Platine und der Panel Platine selbst kann i
           <img src="../.gitbook/assets/taster_led.jpg" alt/>
         </p>
       </td>
-      <td style="text-align:left">Gibts in verschiedenen Ausf&#xFC;hrungen. Genrell k&#xF6;nnen welche mit
-        oder ohne LED genommen werden. Es gibt sie auch in vielen verschiedenen
+      <td style="text-align:left">Gibts in verschiedenen Ausf&#xFC;hrungen. Generell k&#xF6;nnen welche
+        mit oder ohne LED genommen werden. Es gibt sie auch in vielen verschiedenen
         Durchmessern. Ich habe gute Erfahrung mit dem Durchmesser 22mm gemacht.
         M&#xF6;chte man kleinere sollten die aber einen erh&#xF6;hten Kopf haben,
         ansonsten braucht man sehr sehr kleine Finger um die vern&#xFC;nftig zu

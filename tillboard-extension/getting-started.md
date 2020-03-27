@@ -2,7 +2,7 @@
 
 ## Bauteile / Requirements <a id="bauteile-requirements"></a>
 
-Neben den Komponenten für die Extension Platine und der Extension Platine selbst werden folgende Sachen benötigt\(Falls Du mich unterstützen willst kannst du die Affiliate Links nutzen, ansonsten kann man die Bauteile natürlich auch selbst über Suchmaschinen finden\):
+Neben den Komponenten für die Extension Platine und der Extension Platine selbst werden folgende Sachen benötigt\(Falls Du mich unterstützen willst, kannst Du die Affiliate Links nutzen, ansonsten kann man die Bauteile natürlich auch selbst über Suchmaschinen finden\):
 
 <table>
   <thead>
@@ -77,7 +77,7 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
         <p>Zwischen den Boards. Ich habe mir die einfach</p>
         <p>selbst im 3D Drucker gedruckt. Geht ganz fix.</p>
         <p>Durchmesser passend zur Schraube und die</p>
-        <p>L&#xE4;nge sind 50mm.</p>
+        <p>L&#xE4;nge je nachdem, welche Spacer genutzt werden.</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
