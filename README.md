@@ -1,10 +1,12 @@
 # README
 
-## Was ist die Tillboard Extension
+## What is the Tillboard Extension?
 
 ![Tillboard Extension](.gitbook/assets/img_20200325_153244.jpg)
 
-Eine Erweiterung für das von Till Nenz erstellte [MPCNC-Nano-Estlcam-Shield](https://github.com/tnn85/MPCNC-Nano-Estlcam-Shield) auch **Tillboard** genannt. Damit kann eine CNC Fräse mit der Software [Estlcam ](https://www.estlcam.de/)gesteuert werden. Die hier vorgestellte Erweiterung bzw. **Tillboard Extension** wird auf das Tillboard aufgesteckt und bringt einige neue Funktionalitäten mit sich. Die Tillboard Extension wurde zwar für die MPCNC designed, funktioniert aber genauso gut auf anderen Fräsen. Mit der Extension ist es außerdem möglich Autosqauring der Achsen trotz Nutzung von Estlcam auszuführen.
+An extension for the  [MPCNC-Nano-Estlcam-Shield](https://github.com/tnn85/MPCNC-Nano-Estlcam-Shield) build by Till Nenz. It is also called **Tillboard**
+
+. Damit kann eine CNC Fräse mit der Software [Estlcam ](https://www.estlcam.de/)gesteuert werden. Die hier vorgestellte Erweiterung bzw. **Tillboard Extension** wird auf das Tillboard aufgesteckt und bringt einige neue Funktionalitäten mit sich. Die Tillboard Extension wurde zwar für die MPCNC designed, funktioniert aber genauso gut auf anderen Fräsen. Mit der Extension ist es außerdem möglich Autosqauring der Achsen trotz Nutzung von Estlcam auszuführen.
 
 ## Was für neue Funktionen bringt die Extension?
 
