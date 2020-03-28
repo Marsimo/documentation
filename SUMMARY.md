@@ -6,6 +6,7 @@
 
 * [Getting Started](tillboard-extension/getting-started.md)
 * [Platine](tillboard-extension/platine.md)
+* [Arduino Nano](tillboard-extension/arduino-nano.md)
 
 ## Extension Panel
 
