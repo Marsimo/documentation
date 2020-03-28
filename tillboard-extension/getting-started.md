@@ -9,7 +9,7 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
     <tr>
       <th style="text-align:left">Bauteil</th>
       <th style="text-align:left">Beschreibung</th>
-      <th style="text-align:left">Store Links</th>
+      <th style="text-align:left">Links</th>
     </tr>
   </thead>
   <tbody>
