@@ -5,6 +5,7 @@
 ## Tillboard Extension
 
 * [Getting Started](tillboard-extension/getting-started.md)
+* [Platine](tillboard-extension/platine.md)
 
 ## Extension Panel
 
