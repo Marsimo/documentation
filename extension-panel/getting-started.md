@@ -1,10 +1,12 @@
 # Getting Started
 
+
+
 ![Extension Panel](../.gitbook/assets/img_20200325_163022_cropped.jpg)
 
-![Bedienpanel Beispiel](../.gitbook/assets/img_20200315_120620_cropped.jpg)
-
 ## Bauteile / Requirements
+
+### Funktionen
 
 Hier ist eine Auflistung der Ein-/Ausgänge, welche die Platine im Standard unterstützt und meiner Empfehlung welches Bauteil man dafür braucht. Weiter unten gibt es dann eine Übersicht der Bauteile.
 
@@ -26,7 +28,9 @@ Hier ist eine Auflistung der Ein-/Ausgänge, welche die Platine im Standard unte
 | Stromlos schalten | Schalter |
 | Display | 4-Zeilen OLED Display |
 
-Neben den Komponenten für die Panel Platine und der Panel Platine selbst kann ich folgende Sachen empfehlen\(Falls Du mich unterstützen willst, kannst Du die Affiliate Links nutzen, ansonsten kann man die Bauteile natürlich auch selbst über Suchmaschinen finden\):
+### Bauteile
+
+Folgende Bauteile kann ich für das Bedienpanel empfehlen\(Falls Du mich unterstützen willst, kannst Du die Affiliate Links nutzen, ansonsten kann man die Bauteile natürlich auch selbst über Suchmaschinen finden\):
 
 <table>
   <thead>
@@ -145,4 +149,5 @@ Neben den Komponenten für die Panel Platine und der Panel Platine selbst kann i
       </td>
     </tr>
   </tbody>
-</table>
+</table>## 
+

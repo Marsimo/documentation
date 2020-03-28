@@ -143,9 +143,9 @@
 
 Zur Technik brauche ich vermutlich nicht mehr viel zu sagen, da Du bereits das Tillboard erfolgreich fertig gelötet hast. Der Aufwand ist bei dieser Platine ähnlich und das Vorgehen unterscheidet sich auch nicht großartig. Das wird hier keine "Schritt für Schritt" Anleitung.  
 
-### Vorgehen / Vorbereitung
+### Vorbereitung / Materialien
 
-Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen von Innen nach Außen zu löten. Es sollte vor allem darauf geachtet werden sauber zu löten und nur Lötzinn auf die dafür vorgesehenen Pads zu geben. Sollte einmal soviel Lötzinn an einem Pad sein, oder sollten sich zwei Pads verbinden kann man gut so eine kleine Vakuumspritze zum Entfernen des überflüssigen Zinns benutzen. Hier mal eine kleine Auflistung der Sachen, die ich benutze:
+Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löten:
 
 <table>
   <thead>
@@ -187,6 +187,20 @@ Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen von Innen 
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">
+        <p>Entl&#xF6;tpumpe</p>
+        <p></p>
+      </td>
+      <td style="text-align:left">Falls sich Pads verbinden oder zu viel L&#xF6;tzinn aufgetragen wurde.
+        Mir reicht so ein billiges Exemplar bis 5&#x20AC; vollkommen.</td>
+      <td style="text-align:left">
+        <p><a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_osacat%3D0%26_odkw%3Dl%25C3%25B6tzinn%2Bpumpe%26_from%3DR40%26_trksid%3Dp2334524.m570.l1313.TR7.TRC2.A0.H0.Xentl%25C3%25B6tpumpe.TRS0%26_nkw%3Dentl%25C3%25B6tpumpe%26_sacat%3D0">Ebay</a>
+        </p>
+        <p><a href="https://amzn.to/2WONTLl">Amazon</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Seitenschneider / Kabelschneider</td>
       <td style="text-align:left">Funktion brauche ich denke ich nicht erkl&#xE4;ren :-)</td>
       <td style="text-align:left"><a href="https://amzn.to/3dDokTc">Amazon</a>
@@ -198,7 +212,9 @@ Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen von Innen 
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
+</table>### Informationen für den Zusammenbau
+
+Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen von **Innen nach Außen** zu löten. Es sollte vor allem darauf geachtet werden sauber zu löten und nur Lötzinn auf die dafür vorgesehenen Pads zu geben. Sollte einmal soviel Lötzinn an einem Pad sein, oder sollten sich zwei Pads verbinden kann man gut so eine kleine Vakuumspritze zum Entfernen des überflüssigen Zinns benutzen
 
 
 

@@ -17,12 +17,12 @@ Die Extension tauscht für die Steuerung der CNC den Arduino Nano gegen einen Ar
 Hier eine Auflistung der Funktionen:
 
 * Alle Funktionen des Tillboards sind erhalten geblieben.
-* Autosqauring der Achsen ist nun möglich.
+* Autosquaring der Achsen ist nun möglich.
 * Zwei weitere Stepper Treiber können verbaut werden. Steuerung über externe Treiber ebenfalls möglich.
 * Insgesamt 16 Eingänge und 8 Ausgänge, alle galvanisch getrennt.
-* Alle in Estlcam konfigurierbaren Bedienelemente können genutzt werden, besonders hervor zu heben:
+* Alle in Estlcam konfigurierbaren Bedienelemente können genutzt werden, besonders hervorzuheben:
   * Verfahren per Joystick
-  * Spindelgeschwindigkeit und Vorschub Einstellung per Poti
+  * Spindel Geschwindigkeit und Vorschub Einstellung per Poti
   * Programme / Motor starten und stoppen
 * Display zur Anzeige des Autosquaring Status der Achsen und Temperatur der Fühler\(Können z.B. in Schaltkasten oder im Kühlmittel Tank positioniert werden\)
 * Herausgabe aller Bedienelemente über eine SubD 37 Schnittstelle.

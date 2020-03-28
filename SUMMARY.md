@@ -10,4 +10,5 @@
 ## Extension Panel
 
 * [Getting Started](extension-panel/getting-started.md)
+* [Bedienpanel](extension-panel/bedienpanel.md)
 
