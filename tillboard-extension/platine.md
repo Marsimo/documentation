@@ -1,5 +1,7 @@
 # Platine
 
+Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebildeter Elektriker. Daher übernehme ich auch keinerlei Haftung für eventuelle Schäden die durch die Extension indirekt oder direkt entstehen. Wenn sich das Löten nicht zutraut, sucht sich Hilfe bei bekannten oder in einem Elektronikfachgeschäft.
+
 ## Beschreibung
 
 ### Jumper / Terminals
