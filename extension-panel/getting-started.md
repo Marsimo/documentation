@@ -1,9 +1,5 @@
 # Getting Started
 
-
-
-![Extension Panel](../.gitbook/assets/img_20200325_163022_cropped.jpg)
-
 ## Bauteile / Requirements
 
 ### Funktionen

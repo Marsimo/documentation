@@ -11,5 +11,6 @@
 ## Extension Panel
 
 * [Getting Started](extension-panel/getting-started.md)
+* [Platine](extension-panel/platine.md)
 * [Bedienpanel](extension-panel/bedienpanel.md)
 

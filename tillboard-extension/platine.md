@@ -1,6 +1,6 @@
 # Platine
 
-## Bauteile
+## Beschreibung
 
 ### Jumper / Terminals
 
