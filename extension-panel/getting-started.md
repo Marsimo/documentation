@@ -37,7 +37,7 @@ Folgende Bauteile kann ich für das Bedienpanel empfehlen\(Falls Du mich unterst
     <tr>
       <th style="text-align:left">Bauteil</th>
       <th style="text-align:left">Beschreibung</th>
-      <th style="text-align:left">Store Link</th>
+      <th style="text-align:left">Link</th>
     </tr>
   </thead>
   <tbody>

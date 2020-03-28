@@ -131,6 +131,19 @@
         auf 5v eingestellt werden oder man legt selbst ein Kabel an einem der COM
         Terminals. Man k&#xF6;nnte z.B. 12V vom Tillboard darunter nehmen.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">ENA</td>
+      <td style="text-align:left">Enable der Treiber</td>
+      <td style="text-align:left">
+        <p>Leider sind beim Tillboard die ENA Anschl&#xFC;sse fest auf GND gelegt.
+          Daher bleibt nur die Beinchen der Treiber abzukneifen und dann den ENA
+          der Treiber an den richtigen Terminal am Extension board anzuschlie&#xDF;en.
+          Generell werden alle ENA gleich geschaltet, daher ist es egal ob man ENA1,
+          ENA2 oder ENA3 nutzt.</p>
+        <p>Nutzt man externe Treiber kann man einfach alle ENA&#xB4;s der Treiber
+          am Board an dem 3er Terminal anschlie&#xDF;en.</p>
+      </td>
+    </tr>
   </tbody>
 </table>### Leds
 
@@ -214,7 +227,16 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
   </tbody>
 </table>### Informationen für den Zusammenbau
 
-Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen von **Innen nach Außen** zu löten. Es sollte vor allem darauf geachtet werden sauber zu löten und nur Lötzinn auf die dafür vorgesehenen Pads zu geben. Sollte einmal soviel Lötzinn an einem Pad sein, oder sollten sich zwei Pads verbinden kann man gut so eine kleine Vakuumspritze zum Entfernen des überflüssigen Zinns benutzen
+Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen sich von den Niedrigsten zu den größten Bauteilen vorzuarbeiten. Es sollte vor allem darauf geachtet werden sauber zu löten und nur Lötzinn auf die dafür vorgesehenen Pads zu geben. Sollte einmal soviel Lötzinn an einem Pad sein, oder sollten sich zwei Pads verbinden kann man gut so eine kleine Vakuumspritze zum Entfernen des überflüssigen Zinns benutzen
 
+### Bilderstrecke / Anleitung
 
+|  |  |
+| :--- | :--- |
+| ![](../.gitbook/assets/pcb_build_4.jpg)  | ![](../.gitbook/assets/pcb_build_9.jpg)  |
+| ![](../.gitbook/assets/ic_sockel_arrow.jpg)  | Beim Löten der IC-Sockel sollte unbedingt auf die richtige Richtung geachtet werden. Die Kerben sollten übereinander liegen, wie hier auf dem Bild zu sehen. |
+| ![](../.gitbook/assets/ic_arrow.jpg)  | Die ICs werden ebenfalls so eingesteckt, dass die Kerben übereinander liegen. Manche ICs haben einen Punkt anstatt einer Kerbe. Dann muss halt der Punkt über der Kerbe des Sockels liegen |
+|  |  |
+
+  
 
