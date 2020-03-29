@@ -142,7 +142,7 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
           der Treiber an den richtigen Terminal am Extension board anzuschlie&#xDF;en.
           Generell werden alle ENA gleich geschaltet, daher ist es egal ob man ENA1,
           ENA2 oder ENA3 nutzt.</p>
-        <p>Nutzt man externe Treiber kann man einfach alle ENA&#xB4;s der Treiber
+        <p>Nutzt man externe Treiber, kann man einfach alle ENA&#xB4;s der Treiber
           am Board an dem 3er Terminal anschlie&#xDF;en.</p>
       </td>
     </tr>
@@ -221,7 +221,7 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
     </tr>
     <tr>
       <td style="text-align:left">Seitenschneider / Kabelschneider</td>
-      <td style="text-align:left">Funktion brauche ich denke ich nicht erkl&#xE4;ren :-)</td>
+      <td style="text-align:left">Die Funktion muss ich wohl nicht erkl&#xE4;ren :-)</td>
       <td style="text-align:left">
         <p><a href="https://amzn.to/3dDokTc">Amazon</a>
         </p>
@@ -260,7 +260,7 @@ Die Beinchen der Widerstände und LEDs noch nicht wegschmeißen. Die können fü
 | ![](../.gitbook/assets/pcb_build_16.jpg)  | ![](../.gitbook/assets/pcb_build_17.jpg)  |
 | ![](../.gitbook/assets/pcb_build_18.jpg)  | Die Board Spacer werden ebenfalls nach unten angebracht und werden später in die Anschlüsse für den Arduino Nano des Tillboards gesteckt. |
 | ![](../.gitbook/assets/pcb_build_20.jpg)  | ![](../.gitbook/assets/pcb_build_21.jpg)  |
-| ![](../.gitbook/assets/pcb_build_22.jpg)  | Die Terminals können zusammen gesteckt werden und dann in eins angebracht werden. Daher ist es eigentlich auch egal, ob man die 3er oder 2er Terminals nutzt. Wenn viele inander gesteckt werden kann es sein, dass man die auf dem Board ein wenig drücken muss, damit die in die Löcher passen. |
+| ![](../.gitbook/assets/pcb_build_22.jpg)  | Die Terminals können zusammen gesteckt werden und dann in eins angebracht werden. Daher ist es eigentlich auch egal, ob man die 3er oder 2er Terminals nutzt. Wenn viele ineinander gesteckt werden kann es sein, dass man die auf dem Board ein wenig drücken muss, damit die in die Löcher passen. |
 | ![](../.gitbook/assets/pcb_build_23.jpg)  | ![](../.gitbook/assets/pcb_build_25.jpg)  |
 
 ![](../.gitbook/assets/pcb_build_26.jpg)
