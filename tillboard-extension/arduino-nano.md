@@ -14,7 +14,7 @@ Benötige Libraries\(Können in der Arduino IDE unter Sketch → Bibliothek einb
 
 * [U8X8 von Olikraus](https://github.com/olikraus/u8g2/)
 
-{% file src="../.gitbook/assets/extension\_board\_firmware\_v1.0.zip" caption="Extension Board Firmware v1.0" %}
+[Firmware](https://github.com/taltholtmann/documentation/blob/master/Firmware.ino)\(Einfach in die Arduino IDE kopieren\)
 
 ### Anpassungen / Einstellungen
 
