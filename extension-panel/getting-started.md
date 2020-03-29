@@ -162,6 +162,32 @@ Folgende Bauteile kann ich für das Bedienpanel empfehlen\(Falls Du mich unterst
         </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Temperatur Sensoren</p>
+        <p>
+          <img src="../.gitbook/assets/ds18b20.jpg" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/ds18b20_waterproof.jpg" alt/>
+        </p>
+      </td>
+      <td style="text-align:left">Hier m&#xFC;ssen DS18B20 zum Einsatz kommen, ansonsten muss der Ardunino
+        Code angepasst werden. Theoretisch kann man davon auch mehrere in Reihe
+        schalten, da die mit einem 1-Wire Bus ausgelsen werden. Es gibt die in
+        zwei Varianten, einmal als nacktes Bauteil und einmal eine wasserdichte
+        Version. Je nachdem wo der eingesetzt werden soll kann man sich die passende
+        Variante bestellen. Zum Auslesen und Anzeigen mehrerer Sensoren muss ebenfalls
+        das Arduino Programm bearbeitet werden.</td>
+      <td style="text-align:left">
+        <p><a href="https://amzn.to/2UpkSEc">Amazon</a>
+        </p>
+        <p><a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_osacat%3D0%26_odkw%3Darduino%2Bmega%26_from%3DR40%26_trksid%3Dp2334524.m570.l1313.TR11.TRC1.A0.H0.Xds18b20.TRS0%26_nkw%3Dds18b20%26_sacat%3D0%26_sacat%3D65507">Ebay</a>
+        </p>
+        <p><a href="     https://s.click.aliexpress.com/e/_d8dUrcE">AliExpress</a>
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>## 
 
