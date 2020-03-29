@@ -49,12 +49,12 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
       <td style="text-align:left">Autosquare config</td>
       <td style="text-align:left">
         <p><b>use IN9</b>: Wenn gesetzt wird IN9 w&#xE4;hrend des Autosquaring ausgel&#xF6;st.
-          Kann man dann z.B. in Estlcam als Endstop setzen, damit Estlcam wei&#xDF;,
+          Kann man dann z.B. in Estlcam als Endstopp setzen, damit Estlcam wei&#xDF;,
           dass er gerade nicht verfahren kann.</p>
         <p><b>AS X</b>: muss gesetzt sein, wenn autosquare X an ist.</p>
         <p><b>AS Y</b>: muss gesetzt sein, wenn autosquare Y an ist.</p>
-        <p><b>Rev X</b>: Auto Squaring der X-Achse in die andere Richtung.
-          <br /><b>Rev Y</b>: Auto Squaring der Y-Achse in die andere Richtung.</p>
+        <p><b>Rev X</b>: Auto Squaring der x-Achse in die andere Richtung.
+          <br /><b>Rev Y</b>: Auto Squaring der y-Achse in die andere Richtung.</p>
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
       <td style="text-align:left">
         <p>Con1 - Con11 k&#xF6;nnen frei belegt werden und stehen an der Platine
           f&#xFC;rs Panel wieder zur Verf&#xFC;gung.</p>
-        <p>Die nebenstehenden Pins sind funktionen, die nicht standardm&#xE4;&#xDF;ig
+        <p>Die nebenstehenden Pins sind Funktionen, die nicht standardm&#xE4;&#xDF;ig
           am Panel verf&#xFC;gbar sind.</p>
         <p>M&#xF6;chte man diese Funktion jedoch dennoch am Panel haben kann man
           hier einfach einen Jumper setzen und Con1 wird dann mit &#x201C;Motor Stop&#x201D;
@@ -87,8 +87,8 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
         <p><b>IN15 / IN16</b>: Eingang 15 und 16. Falls man am Panel noch einen Eingang
           belegen m&#xF6;chte(Tastplatte?)
           <br /><b>Autosquare</b>: Startet das Auto Squaring.</p>
-        <p><b>Autosquare Speed</b>: Poti f&#xFC;r de Geschwindgkeitseinstellung vom
-          Autosquaring. Je nachdem wie die Microstepps eingestellt sind variiert
+        <p><b>Autosquare Speed</b>: Poti f&#xFC;r die Geschwindigkeitseinstellung
+          vom Autosquaring. Je nachdem wie die Microstepps eingestellt sind variiert
           diese bei jeder Fr&#xE4;se. Daher kann man die entweder hier mit einem
           Poti einstellen, oder in dem Arduino Programm f&#xFC;r den Nano fest einstellen.</p>
         <p><b>Display SCK / SDA</b>: Anschl&#xFC;sse f&#xFC;r das OLED Display</p>
@@ -97,7 +97,7 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
     <tr>
       <td style="text-align:left">T1 / T2</td>
       <td style="text-align:left">12V in/out</td>
-      <td style="text-align:left">Hier das netzteil anschlie&#xDF;en. Der zweite Terminal kann genutzt werden,
+      <td style="text-align:left">Hier das Netzteil anschlie&#xDF;en. Der zweite Terminal kann genutzt werden,
         um das Tillboard mit Strom zu versorgen.</td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
       <td style="text-align:left">X2 Motor / Y2 Motor</td>
       <td style="text-align:left">Motor Anschl&#xFC;sse</td>
       <td style="text-align:left">A1, A2, B1, B2 der Motoren. Falls der Motor falsch herum dreht einfach
-        den stecker einmal drehen.</td>
+        den Stecker einmal drehen.</td>
     </tr>
     <tr>
       <td style="text-align:left">X2 OUT / Y2 OUT</td>
@@ -139,15 +139,15 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
       <td style="text-align:left">
         <p>Leider sind beim Tillboard die ENA Anschl&#xFC;sse fest auf GND gelegt.
           Daher bleibt nur die Beinchen der Treiber abzukneifen und dann den ENA
-          der Treiber an den richtigen Terminal am Extension board anzuschlie&#xDF;en.
-          Generell werden alle ENA gleich geschaltet, daher ist es egal ob man ENA1,
+          der Treiber an den richtigen Terminal am Extension Board anzuschlie&#xDF;en.
+          Generell werden alle ENA gleich geschaltet, daher ist es egal, ob man ENA1,
           ENA2 oder ENA3 nutzt.</p>
-        <p>Nutzt man externe Treiber, kann man einfach alle ENA&#xB4;s der Treiber
-          am Board an dem 3er Terminal anschlie&#xDF;en.</p>
+        <p>Nutzt man externe Treiber, kann man einfach alle ENA der Treiber am Board
+          an dem 3er Terminal anschlie&#xDF;en.</p>
       </td>
     </tr>
   </tbody>
-</table>### Leds
+</table>### LEDs
 
 | Beschriftung | Beschreibung |
 | :--- | :--- |
@@ -178,7 +178,7 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
           <img src="../.gitbook/assets/pcb_holder.jpg" alt/>
         </p>
       </td>
-      <td style="text-align:left">Kann man sich selbst aus dem 3D Drucker ausdrucken. Hat sich absolut bew&#xE4;hrt.</td>
+      <td style="text-align:left">Kann man sich selbst aus dem 3D-Drucker ausdrucken. Hat sich absolut bew&#xE4;hrt.</td>
       <td
       style="text-align:left"><a href="https://www.thingiverse.com/thing:965574">Thingiverse</a>
         </td>
@@ -190,7 +190,7 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
           <img src="../.gitbook/assets/kreuzpinzette.JPG" alt/>
         </p>
       </td>
-      <td style="text-align:left">Meiner Meinung nach unverzichbar. Hiermit k&#xF6;nnen die Bauteile sehr
+      <td style="text-align:left">Meiner Meinung nach unverzichtbar. Hiermit k&#xF6;nnen die Bauteile sehr
         leicht an ihrer Stelle gehalten werden. Man fixiert das Bauteil und dreht
         dann die Platine um und kann das Bauteil einfach fest l&#xF6;ten. Gibt
         es in verschiedenen Ausf&#xFC;hrungen und L&#xE4;ngen.</td>
@@ -209,15 +209,16 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
         <p></p>
       </td>
       <td style="text-align:left">Falls sich Pads verbinden oder zu viel L&#xF6;tzinn aufgetragen wurde.
-        Mir reicht so ein billiges Exemplar bis 5&#x20AC; vollkommen.</td>
-      <td style="text-align:left">
+        Mir reicht so ein billiges Exemplar bis 5 &#x20AC; vollkommen.</td>
+      <td
+      style="text-align:left">
         <p><a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_osacat%3D0%26_odkw%3Dl%25C3%25B6tzinn%2Bpumpe%26_from%3DR40%26_trksid%3Dp2334524.m570.l1313.TR7.TRC2.A0.H0.Xentl%25C3%25B6tpumpe.TRS0%26_nkw%3Dentl%25C3%25B6tpumpe%26_sacat%3D0">Ebay</a>
         </p>
         <p><a href="https://amzn.to/2WONTLl">Amazon</a>
         </p>
         <p><a href="     https://s.click.aliexpress.com/e/_dYoVm26">AliExpress</a>
         </p>
-      </td>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">Seitenschneider / Kabelschneider</td>
@@ -256,7 +257,7 @@ Die Beinchen der Widerstände und LEDs noch nicht wegschmeißen. Die können fü
 
 |  |  |
 | :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_15.jpg)  | Der Male Header für den Arduino Mega werden auf die andere Seite gelötet. Der Arduino Mega ist damt quasi unter der Platine. |
+| ![](../.gitbook/assets/pcb_build_15.jpg)  | Der Male Header für den Arduino Mega werden auf die andere Seite gelötet. Der Arduino Mega ist damit quasi unter der Platine. |
 | ![](../.gitbook/assets/pcb_build_16.jpg)  | ![](../.gitbook/assets/pcb_build_17.jpg)  |
 | ![](../.gitbook/assets/pcb_build_18.jpg)  | Die Board Spacer werden ebenfalls nach unten angebracht und werden später in die Anschlüsse für den Arduino Nano des Tillboards gesteckt. |
 | ![](../.gitbook/assets/pcb_build_20.jpg)  | ![](../.gitbook/assets/pcb_build_21.jpg)  |
@@ -267,7 +268,7 @@ Die Beinchen der Widerstände und LEDs noch nicht wegschmeißen. Die können fü
 
 |  |  |
 | :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_34.jpg)  |  Auf der Unterseite der Platine befindet sich noch ein 5V Anschluss für einen 40x40mm Lüfter, den man dort optional installieren kann. Generell sollte der ganze Aufbau gut gekühlt werden. Der kleine Lüfter wird dafür nicht ausreichen. |
+| ![](../.gitbook/assets/pcb_build_34.jpg)  |  Auf der Unterseite der Platine befindet sich noch ein 5V Anschluss für einen 40x40 mm Lüfter, den man dort optional installieren kann. Generell sollte der ganze Aufbau gut gekühlt werden. Der kleine Lüfter wird dafür nicht ausreichen. |
 
 ### Test
 
@@ -289,7 +290,7 @@ Zu diesem Zeitpunkt noch nicht den Arduino Nano einstecken! Dieser braucht vorhe
 | ![](../.gitbook/assets/pcb_build_36.jpg)  | Ich habe die beiden Boards hier provisorisch mit Schrauben und Muttern befestigt. Allerdings wird man beim Einbau in den Schaltkasten eher eine lange Schraube mit Abstandshaltern benötigen. |
 
 {% hint style="warning" %}
-Immernoch nicht den Arduino Nano einstecken! Das machen wir im nächsten Kapitel
+Immer noch nicht den Arduino Nano einstecken! Das machen wir im nächsten Kapitel
 {% endhint %}
 
 Wenn die LEDs nach dem Verbinden der Boards entsprechend Leuchten und alles gut aussieht kann man den Arduino Mega mit dem PC verbinden prüfen, ob auch mit Estlcam alles läuft. Hier muss in der Steuerung nun Arduino Mega aus der Liste ausgewählt werden.   

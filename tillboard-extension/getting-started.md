@@ -38,7 +38,7 @@ AliExpress ist immer am günstigsten, dauert dafür aber auch am längsten. Ich 
           <img src="../.gitbook/assets/arduinonano.jpg" alt/>
         </p>
       </td>
-      <td style="text-align:left">Steuerung Autosquaring, wenn man schon das Tillboard hat, kann nat&#xFC;rtlich
+      <td style="text-align:left">Steuerung Autosquaring, wenn man schon das Tillboard hat, kann nat&#xFC;rlich
         der vorhandene Arduino Nano genutzt werden</td>
       <td style="text-align:left">
         <p>&#x200B;<a href="https://amzn.to/33UyXgi">Amazon</a>&#x200B;</p>
@@ -74,7 +74,7 @@ AliExpress ist immer am günstigsten, dauert dafür aber auch am längsten. Ich 
           <img src="../.gitbook/assets/abstandshalter.jpg" alt/>
         </p>
       </td>
-      <td style="text-align:left">Zwischen den Boards. Ich habe mir die einfach selbst im 3D Drucker gedruckt.
+      <td style="text-align:left">Zwischen den Boards. Ich habe mir die einfach selbst im 3D-Drucker gedruckt.
         Geht ganz fix. Durchmesser passend zur Schraube und die L&#xE4;nge je nachdem,
         welche Spacer genutzt werden.</td>
       <td style="text-align:left"></td>
