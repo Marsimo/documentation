@@ -18,7 +18,7 @@ Das wichtigste Vorweg: Das Ganze ist ein Hobby von mir und ich bin kein ausgebil
     <tr>
       <td style="text-align:left">JP2 / JP3</td>
       <td style="text-align:left">Microstepping</td>
-      <td style="text-align:left">Microstepping Einstellung der Treiber. <b>Unbedingt die gleiche Microstepping f&#xFC;r beide Motoren einer Achse nutzen</b>.</td>
+      <td style="text-align:left">Microstepping Einstellung der Treiber. <b>Unbedingt die gleiche Microstepping Einstellung f&#xFC;r beide Motoren einer Achse nutzen</b>.</td>
     </tr>
     <tr>
       <td style="text-align:left">JP4 / JP5</td>
