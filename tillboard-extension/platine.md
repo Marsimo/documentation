@@ -199,6 +199,8 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
         </p>
         <p><a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_osacat%3D0%26_odkw%3D12v%2Bschalter%26_from%3DR40%26_trksid%3Dp2334524.m570.l1313.TR4.TRC2.A0.H0.Xkreuzpinzette.TRS0%26_nkw%3Dkreuzpinzette%26_sacat%3D0">Ebay</a>
         </p>
+        <p><a href="     https://s.click.aliexpress.com/e/_dX5dvu6">AliExpress</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -213,12 +215,18 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
         </p>
         <p><a href="https://amzn.to/2WONTLl">Amazon</a>
         </p>
+        <p><a href="     https://s.click.aliexpress.com/e/_dYoVm26">AliExpress</a>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Seitenschneider / Kabelschneider</td>
       <td style="text-align:left">Funktion brauche ich denke ich nicht erkl&#xE4;ren :-)</td>
-      <td style="text-align:left"><a href="https://amzn.to/3dDokTc">Amazon</a>
+      <td style="text-align:left">
+        <p><a href="https://amzn.to/3dDokTc">Amazon</a>
+        </p>
+        <p><a href="     https://s.click.aliexpress.com/e/_dX5hzL0">AliExpress</a>
+        </p>
       </td>
     </tr>
     <tr>

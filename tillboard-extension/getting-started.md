@@ -4,6 +4,8 @@
 
 Neben den Komponenten für die Extension Platine und der Extension Platine selbst werden folgende Sachen benötigt\(Falls Du mich unterstützen willst, kannst Du die Affiliate Links nutzen, ansonsten kann man die Bauteile natürlich auch selbst über Suchmaschinen finden\):
 
+AliExpress ist immer am günstigsten, dauert dafür aber auch am längsten. Ich warte teilweise zwei Monate auf die Materialien. Bei Amazon und Ebay sollte man auch darauf achten, von wo die Artikel verschickt werden. Viele elektronische Bauteile werden dort ebenfalls aus China verschickt und dann wartet man wieder lange.
+
 <table>
   <thead>
     <tr>
@@ -23,7 +25,10 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
       <td style="text-align:left">Steuerung der Fr&#xE4;se</td>
       <td style="text-align:left">
         <p>&#x200B;<a href="https://amzn.to/2UIr4pQ">Amazon</a>&#x200B;</p>
-        <p>&#x200B;<a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2380057.m570.l1313.TR12.TRC2.A0.H0.Xarduino%2Bmega.TRS0%26_nkw%3Darduino%2Bmega%26_sacat%3D0">Ebay</a>&#x200B;</p>
+        <p>&#x200B;<a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2380057.m570.l1313.TR12.TRC2.A0.H0.Xarduino%2Bmega.TRS0%26_nkw%3Darduino%2Bmega%26_sacat%3D0">Ebay</a>
+          <br
+          /><a href="     https://s.click.aliexpress.com/e/_dVvBRdG">AliExpress&#x200B;</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -37,7 +42,10 @@ Neben den Komponenten für die Extension Platine und der Extension Platine selbs
         der vorhandene Arduino Nano genutzt werden</td>
       <td style="text-align:left">
         <p>&#x200B;<a href="https://amzn.to/33UyXgi">Amazon</a>&#x200B;</p>
-        <p>&#x200B;<a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_osacat%3D0%26_odkw%3Darduino%2Bmega%26_from%3DR40%26_trksid%3Dp2334524.m570.l1313.TR11.TRC1.A0.H0.Xarduino%2Bnano.TRS0%26_nkw%3Darduino%2Bnano%26_sacat%3D0">Ebay</a>&#x200B;</p>
+        <p>&#x200B;<a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3F_osacat%3D0%26_odkw%3Darduino%2Bmega%26_from%3DR40%26_trksid%3Dp2334524.m570.l1313.TR11.TRC1.A0.H0.Xarduino%2Bnano.TRS0%26_nkw%3Darduino%2Bnano%26_sacat%3D0">Ebay</a>
+          <br
+          /><a href="     https://s.click.aliexpress.com/e/_d83654S">AliExpress&#x200B;</a>
+        </p>
       </td>
     </tr>
     <tr>
