@@ -29,6 +29,15 @@ uint16_t speedPotiMin = 10;  // min delay between steps in microseconds
 uint16_t speedPotiMax = 5000; // min delay between steps in microseconds
 ```
 
+
+
+## Autosquaring
+
+### Erklärung
+
+Der Arduino Nano übernimmt die Kontrolle über die Stepper Motoren, wenn der Autosquaring Knopf/Taster gedrückt wird. Das Ganze hat eine Zeitverzögerung, damit man nicht direkt alle Achseneinstellungen unbrauchbar macht, wenn man da zufällig mal dran kommt. Bedeutet man drückt den Taster, wartet kurz und dann beginnt das Autosquaring. Für welche Achsen Autosquaring durchgeführt werden soll und die Drehrichtung lassen sich über Jumper konfigurieren. Man muss den Taster so lange gedrückt halten, bis alle Endstopps angefahren wurden.  
+Der aktuelle Status wird dabei über das Display ausgegeben.
+
 ### Anschluss der Endstopps
 
 Für das Autosquaring braucht jeder Stepper Motor einen eigenen Endstopp Schalter. Diese müssen wie folgt angeschlossen werden:
@@ -40,12 +49,9 @@ Für das Autosquaring braucht jeder Stepper Motor einen eigenen Endstopp Schalte
 | IN7 | Y1 |
 | IN8 | Y2 |
 
+### Estlcam
 
-
-## Autosquaring
-
-Der Arduino Nano übernimmt die Kontrolle über die Stepper Motoren, wenn der Autosquaring Knopf/Taster gedrückt wird. Das Ganze hat eine Zeitverzögerung, damit man nicht direkt alle Achseneinstellungen unbrauchbar macht, wenn man da zufällig mal dran kommt. Bedeutet man drückt den Taster, wartet kurz und dann beginnt das Autosquaring. Für welche Achsen Autosquaring durchgeführt werden soll und die Drehrichtung lassen sich über Jumper konfigurieren. Man muss den Taster so lange gedrückt halten, bis alle Endstopps angefahren wurden.  
-Der aktuelle Status wird dabei über das Display ausgegeben.
+Damit Estlcam nicht gleichzeitig versucht die Motoren zu steuern\(passiert eigentlich nur durch Bedienfehler\) kann der Eingang IN9 genutzt werden. Dazu muss der entsprechende Jumper auf der Platine gesetzt sein - JP8. Danach kann man diesen in Estlcam bei den Eingängen z.B. als Endstopp konfigurieren. Wird Autosquare nun gestartet löst der Eingang aus und Estlcam stoppt die Steuerung, da es denkt, ein Endstopp wurde ausgelöst.
 
 
 
