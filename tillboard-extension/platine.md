@@ -257,7 +257,7 @@ Die Beinchen der Widerstände und LEDs noch nicht wegschmeißen. Die können fü
 
 |  |  |
 | :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_15.jpg)  | Der Male Header für den Arduino Mega werden auf die andere Seite gelötet. Der Arduino Mega ist damit quasi unter der Platine. |
+| ![](../.gitbook/assets/pcb_build_15.jpg)  | Die Male Header für den Arduino Mega werden auf die andere Seite gelötet. Der Arduino Mega ist damit quasi unter der Platine. |
 | ![](../.gitbook/assets/pcb_build_16.jpg)  | ![](../.gitbook/assets/pcb_build_17.jpg)  |
 | ![](../.gitbook/assets/pcb_build_18.jpg)  | Die Board Spacer werden ebenfalls nach unten angebracht und werden später in die Anschlüsse für den Arduino Nano des Tillboards gesteckt. |
 | ![](../.gitbook/assets/pcb_build_20.jpg)  | ![](../.gitbook/assets/pcb_build_21.jpg)  |
@@ -272,14 +272,14 @@ Die Beinchen der Widerstände und LEDs noch nicht wegschmeißen. Die können fü
 
 ### Test
 
-Nach dem ganzen Löten und zusammenbauen wollen wir die Platine erstmal testen, bevor wir Strom darauf geben. 
-
 {% hint style="danger" %}
 Zu diesem Zeitpunkt noch nicht den Arduino Nano einstecken! Dieser braucht vorher die richtige Firmware!
 {% endhint %}
 
+Nach dem ganzen Löten und zusammenbauen wollen wir die Platine erstmal testen, bevor wir Strom darauf geben. 
+
 1. Dazu nehmen wir unser Messgerät und überprüfen einmal, ob wir irgendwo einen offensichtlichen "kurzen" haben, indem wir eine Durchgangsprüfung beim Terminal vom Temperatur Sensor machen. Also eine Leitung dort auf GND und die andere auf 5V. Hier sollte natürlich kein Durchgang sein.
-2. Dann können wir einmal 5V auf das Board geben und schauen, ob die LED leuchtet. Das geht am besten an dem Terminal für 5V in.
+2. Dann können wir einmal 5V auf das Board geben und schauen, ob die LED leuchtet. Das geht am besten an dem Terminal für "5V in".
 3. Als Nächstes kann 12-36V angeschlossen werden. Die andere LED sollte aufleuchten.
 4. Wenn bis hier hin nichts abgeraucht ist, kann die Platine aufs Tillboard aufgesteckt werden und mit dem zweiten 12-36V Terminal kann man auch das Tillboard mit Strom versorgen.
 
@@ -293,6 +293,6 @@ Zu diesem Zeitpunkt noch nicht den Arduino Nano einstecken! Dieser braucht vorhe
 Immer noch nicht den Arduino Nano einstecken! Das machen wir im nächsten Kapitel
 {% endhint %}
 
-Wenn die LEDs nach dem Verbinden der Boards entsprechend Leuchten und alles gut aussieht kann man den Arduino Mega mit dem PC verbinden prüfen, ob auch mit Estlcam alles läuft. Hier muss in der Steuerung nun Arduino Mega aus der Liste ausgewählt werden.   
+Wenn die LEDs nach dem Verbinden der Boards entsprechend Leuchten und alles gut aussieht kann man den Arduino Mega mit dem PC verbinden und prüfen, ob auch mit Estlcam alles läuft. Hier muss in der Steuerung nun Arduino Mega aus der Liste ausgewählt werden.   
 Hat man die Treiber ebenfalls angeschlossen kann man schon testen, ob alles richtig verfährt.
 
