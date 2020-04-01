@@ -256,12 +256,19 @@ Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen sich von d
 
 ### Bilderstrecke / Anleitung
 
-|  |  |
-| :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_4.jpg)  | ![](../.gitbook/assets/pcb_build_9.jpg)  |
-| ![](../.gitbook/assets/ic_sockel_arrow.jpg)  | Beim Löten der IC-Sockel sollte unbedingt auf die richtige Richtung geachtet werden. Die Kerben sollten übereinander liegen, wie hier auf dem Bild zu sehen. |
-| ![](../.gitbook/assets/ic_arrow.jpg)  | Die ICs werden ebenfalls so eingesteckt, dass die Kerben übereinander liegen. Manche ICs haben einen Punkt anstatt einer Kerbe. Dann muss halt der Punkt über der Kerbe des Sockels liegen |
-| ![](../.gitbook/assets/pcb_build_11.jpg)  | ![](../.gitbook/assets/pcb_build_12.jpg)  |
+![](../.gitbook/assets/pcb_build_4.jpg)
+
+![](../.gitbook/assets/pcb_build_9.jpg)
+
+![](../.gitbook/assets/pcb_build_3.jpg)
+
+Beim Löten der IC-Sockel sollte unbedingt auf die richtige Richtung geachtet werden. Die Kerben sollten übereinander liegen, wie hier auf dem Bild zu sehen.
+
+![](../.gitbook/assets/pcb_build_1.jpg)
+
+Die ICs werden ebenfalls so eingesteckt, dass die Kerben übereinander liegen. Manche ICs haben einen Punkt anstatt einer Kerbe. Dann muss halt der Punkt über der Kerbe des Sockels liegen
+
+![](../.gitbook/assets/pcb_build_12.jpg)
 
 ![](../.gitbook/assets/pcb_build_14.jpg)
 
@@ -269,20 +276,35 @@ Damit man immer gut an die Bauteile ran kommt, kann ich nur empfehlen sich von d
 Die Beinchen der Widerstände und LEDs noch nicht wegschmeißen. Die können für das Panel später noch verwendet werden.
 {% endhint %}
 
-|  |  |
-| :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_15.jpg)  | Die Male Header für den Arduino Mega werden auf die andere Seite gelötet. Der Arduino Mega ist damit quasi unter der Platine. |
-| ![](../.gitbook/assets/pcb_build_16.jpg)  | ![](../.gitbook/assets/pcb_build_17.jpg)  |
-| ![](../.gitbook/assets/pcb_build_18.jpg)  | Die Board Spacer werden ebenfalls nach unten angebracht und werden später in die Anschlüsse für den Arduino Nano des Tillboards gesteckt. |
-| ![](../.gitbook/assets/pcb_build_20.jpg)  | ![](../.gitbook/assets/pcb_build_21.jpg)  |
-| ![](../.gitbook/assets/pcb_build_22.jpg)  | Die Terminals können zusammen gesteckt werden und dann in eins angebracht werden. Daher ist es eigentlich auch egal, ob man die 3er oder 2er Terminals nutzt. Wenn viele ineinander gesteckt werden kann es sein, dass man die auf dem Board ein wenig drücken muss, damit die in die Löcher passen. |
-| ![](../.gitbook/assets/pcb_build_23.jpg)  | ![](../.gitbook/assets/pcb_build_25.jpg)  |
+![](../.gitbook/assets/pcb_build_15.jpg)
+
+Die Male Header für den Arduino Mega werden auf die andere Seite gelötet. Der Arduino Mega ist damit quasi unter der Platine.
+
+ 
+
+![](../.gitbook/assets/pcb_build_16.jpg)
+
+![](../.gitbook/assets/pcb_build_17.jpg)
+
+![](../.gitbook/assets/pcb_build_18.jpg)
+
+Die Board Spacer werden ebenfalls nach unten angebracht und werden später in die Anschlüsse für den Arduino Nano des Tillboards gesteckt.
+
+![](../.gitbook/assets/pcb_build_20.jpg)
+
+![](../.gitbook/assets/pcb_build_21.jpg)
+
+![](../.gitbook/assets/pcb_build_22.jpg)
+
+Die Terminals können zusammen gesteckt werden und dann in eins angebracht werden. Daher ist es eigentlich auch egal, ob man die 3er oder 2er Terminals nutzt. Wenn viele ineinander gesteckt werden kann es sein, dass man die auf dem Board ein wenig drücken muss, damit die in die Löcher passen.
+
+![](../.gitbook/assets/pcb_build_23.jpg)
 
 ![](../.gitbook/assets/pcb_build_26.jpg)
 
-|  |  |
-| :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_34.jpg)  |  Auf der Unterseite der Platine befindet sich noch ein 5V Anschluss für einen 40x40 mm Lüfter, den man dort optional installieren kann. Generell sollte der ganze Aufbau gut gekühlt werden. Der kleine Lüfter wird dafür nicht ausreichen. |
+![](../.gitbook/assets/pcb_build_34.jpg)
+
+Auf der Unterseite der Platine befindet sich noch ein 5V Anschluss für einen 40x40 mm Lüfter, den man dort optional installieren kann. Generell sollte der ganze Aufbau gut gekühlt werden. Der kleine Lüfter wird dafür nicht ausreichen.
 
 ### Test
 
@@ -299,9 +321,9 @@ Nach dem ganzen Löten und zusammenbauen wollen wir die Platine erstmal testen, 
 
 ### Anschluss
 
-|  |  |
-| :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_36.jpg)  | Ich habe die beiden Boards hier provisorisch mit Schrauben und Muttern befestigt. Allerdings wird man beim Einbau in den Schaltkasten eher eine lange Schraube mit Abstandshaltern benötigen. |
+![](../.gitbook/assets/pcb_build_36.jpg)
+
+Ich habe die beiden Boards hier provisorisch mit Schrauben und Muttern befestigt. Allerdings wird man beim Einbau in den Schaltkasten eher eine lange Schraube mit Abstandshaltern benötigen.
 
 {% hint style="warning" %}
 Immer noch nicht den Arduino Nano einstecken! Das machen wir im nächsten Kapitel
