@@ -31,9 +31,9 @@ Hier gibts glaube ich nicht all Zuviel zu sagen.
 
 ### Bilderstrecke
 
-|  |  |
-| :--- | :--- |
-| ![](../.gitbook/assets/pcb_build_39.jpg)  | ![](../.gitbook/assets/pcb_build_41.jpg)  |
+![](../.gitbook/assets/pcb_build_38.jpg)
+
+![](../.gitbook/assets/pcb_build_41.jpg)
 
 ![Extension Panel PCB](../.gitbook/assets/pcb_build_42.jpg)
 
