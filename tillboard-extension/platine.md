@@ -185,6 +185,20 @@ Hier mal eine kleine Auflistung der Sachen, die ich benutze, um Platinen zu löt
     </tr>
     <tr>
       <td style="text-align:left">
+        <p>L&#xF6;tzinn</p>
+        <p>
+          <img src="../.gitbook/assets/loetzinn.jpg" alt/>
+        </p>
+      </td>
+      <td style="text-align:left">Ich l&#xF6;te nur mit bleihaltigem Lot, f&#xE4;llt mir wesentlich leichter
+        als mit bleifreiem Lot. Ich will aber auch nicht ausschlie&#xDF;en, dass
+        ich einfach zu bl&#xF6;d bin &#x1F605;. Hab mal verlinkt was ich mir letztens
+        gekauft habe.</td>
+      <td style="text-align:left"><a href="http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;pub=5575576561&amp;toolid=10001&amp;campid=5338665749&amp;customid=&amp;mpre=https%3A%2F%2Fwww.ebay.de%2Fitm%2FLC60-1-00-0-25-Lot-Sn60Pb40-L%25C3%25B6ten-Draht-1mm-0-25kg-Flux-F-SW26%2F392622002352%3FssPageName%3DSTRK%253AMEBIDX%253AIT%26_trksid%3Dp2057872.m2749.l2649">Ebay</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
         <p>Pinzette</p>
         <p>
           <img src="../.gitbook/assets/kreuzpinzette.JPG" alt/>
