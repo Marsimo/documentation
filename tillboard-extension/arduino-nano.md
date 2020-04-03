@@ -12,7 +12,7 @@ Die Firmware kann hier heruntergeladen werden. Diese muss dann mit der Arduino S
 
 Benötige Libraries\(Können in der Arduino IDE unter Sketch → Bibliothek einbinden → Bibliotheken verwalten hinzugefügt werden\):
 
-* [U8X8 von Olikraus](https://github.com/olikraus/u8g2/)
+* [U8g2 von Oliver \(Github: olikraus\)](https://github.com/olikraus/u8g2/)
 
 [Firmware](https://github.com/taltholtmann/documentation/blob/master/Firmware.ino)\(Einfach in die Arduino IDE kopieren\)
 
